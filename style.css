@@ -1,0 +1,45 @@
+.mainBody {
+  background-color: blanchedalmond;
+  border: dashed black;
+  border-width: 7px;
+}
+.title {
+  text-align: center;
+  font-size: 30px;
+  background-color: black;
+  color: blanchedalmond;
+  margin: 1em;
+  text-decoration: overline underline;
+  padding: 1px;
+}
+.pic {
+  border: solid black;
+  height: 400px;
+  width: 350px;
+}
+.picHolder {
+  text-align: center;
+}
+.desciption {
+  font-size: 25px;
+  text-align: center;
+}
+.des {
+  text-align: center;
+  list-style: none;
+  margin-right: 45px;
+}
+.reward {
+  text-align: center;
+  font-size: 50px;
+  margin-top: 5px;
+}
+.info {
+  text-align: center;
+  font-size: 35px;
+  font-family: "Trebuchet MS";
+}
+.next {
+  text-align: center;
+  font-size: 50px;
+}

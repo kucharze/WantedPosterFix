@@ -1,0 +1,40 @@
+.mainBody {
+  background-color: bisque;
+  border: dashed black;
+}
+.title {
+  text-align: center;
+}
+.titlePic {
+  align-items: center;
+  height: 250px;
+  width: 600px;
+}
+.pic {
+  border: solid black;
+  height: 300px;
+  width: 200px;
+}
+.picHolder {
+  text-align: center;
+}
+.desciption {
+  font-size: 50px;
+  text-align: center;
+}
+.reward {
+  text-align: center;
+}
+.rewardPic {
+  width: 600px;
+  height: 200px;
+}
+.info {
+  text-align: center;
+  font-size: 30px;
+  margin: 10px;
+}
+.next {
+  text-align: center;
+  font-size: 50px;
+}
